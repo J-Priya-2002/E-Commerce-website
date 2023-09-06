@@ -33,7 +33,7 @@ To run this website locally, follow these steps:
 
 1. *Clone the Repository*: 
    
-https://github.com/Advithi-23/E-Commerce-website.git
+https://github.com/J-Priya-2002/E-Commerce-website.git
    
 
 2. *Navigate to the Project Folder*:
